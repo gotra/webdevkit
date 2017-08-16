@@ -1,0 +1,17 @@
+---
+
+staticresouces:
+  resourceList:
+    -
+      uri: /jira/**
+      location: file:/Users/rguru/Public/sites/kelasa/
+    -
+      uri: bamboo
+      location: /dddd
+    -
+      uri: bitbucket
+      location: /ssss
+
+dynamicresources:
+  harlocpath: /Users/rguru/IdeaProjects/webdevkit/
+
